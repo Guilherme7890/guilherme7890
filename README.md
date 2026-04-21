@@ -7,7 +7,7 @@ Atualmente atuo com **Suporte Técnico N1**, onde desenvolvo habilidades analít
 ---
 
 ## 🚀 Certificações & Formação
-<div align="left">
+<div align="center">
 
 ![Analise e Desenvolvimento de Sistemas](https://img.shields.io/badge/Analise_e_Desenvolvimento_de_Sistemas-000000?style=flat-square&logo=security&logoColor=white)
 ![Excel Analytics](https://img.shields.io/badge/Excel_Analytics-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
