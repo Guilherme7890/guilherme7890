@@ -19,7 +19,7 @@ Atualmente atuo com **Suporte Técnico N1**, onde desenvolvo habilidades analít
 
 ## 📂 Projetos em destaque
 
-* 📊 Análise de Vendas - Adega
+* 📊 Análise de Vendas - Mercado de Bebidas
 
 ---
 
