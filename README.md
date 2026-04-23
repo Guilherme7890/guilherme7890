@@ -19,7 +19,7 @@ Atualmente atuo com **Suporte Técnico N1**, onde desenvolvo habilidades analít
 
 ## 📂 Projetos em destaque
 
-* 📊 Análise de Vendas - Adega  <div align="left"> [![README.md](https://img.shields.io/badge/README.md-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Guilherme7890](https://github.com/Guilherme7890/analise-adega-dashboard)) </div>
+* 📊 Análise de Vendas - Adega
 
 ---
 
