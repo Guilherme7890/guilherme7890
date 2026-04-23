@@ -15,26 +15,12 @@ Atualmente atuo com **Suporte Técnico N1**, onde desenvolvo habilidades analít
 ![Python](https://img.shields.io/badge/Python-7B42BC?style=flat-square&logo=itil&logoColor=white)
 </div>
 
-<!--
-![Excel Analytics](https://img.shields.io/badge/Excel_Analytics-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![ITIL4](https://img.shields.io/badge/ITIL_4_Foundation-7B42BC?style=flat-square&logo=itil&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=flat-square&logo=google-analytics&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI_Certified-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks_Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum_Foundation-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white)
------------------------------------------------------------
-
-
+---
 
 ## 📂 Projetos em destaque
 
-* 📊 Em Densenvolvimento 
-* 📉 Dashboard de Indicadores
-* 🧠 Análise de Comportamento de Clientes 
+* 📊 Análise de Vendas - Adega  <div align="left"> [![README.md](https://img.shields.io/badge/README.md-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Guilherme7890](https://github.com/Guilherme7890/analise-adega-dashboard)) </div>
 
-*(Em constante atualização — confira meus repositórios!)*
--->
 ---
 
 ## 💡 Diferenciais
